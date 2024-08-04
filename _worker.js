@@ -2,13 +2,13 @@
 // <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
 // @ts-ignore
 // https://github.com/bia-pain-bache/BPB-Worker-Panel
-// kedaya 2024.08.04 - 
+// kedaya 2024.08.04 - github
 
 import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // https://www.uuidgenerator.net/
-let userID = '8eae7b00-5a93-4187-8537-3c57f358a343';//
+let userID = '8eae7b00-5a93-4187-8537-3c57f358a343';//------
 
 // https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
 const proxyIPs= ['bpb.yousef.isegaro.com'];
